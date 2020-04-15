@@ -1,0 +1,15 @@
+#tileContainer{
+    margin-right: 30px;
+    margin-left: 30px;
+    height: 100%;
+    border: solid blue 1px;
+}
+
+.tilesRow{
+    height: 300px;
+}
+
+.tilesRow > *{
+    display: inline-block;
+    margin-top: 0
+}
